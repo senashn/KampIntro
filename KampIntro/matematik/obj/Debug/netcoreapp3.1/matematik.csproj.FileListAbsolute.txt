@@ -1,0 +1,13 @@
+C:\Users\Monster\Desktop\C# kampı\KampIntro\matematik\bin\Debug\netcoreapp3.1\matematik.exe
+C:\Users\Monster\Desktop\C# kampı\KampIntro\matematik\bin\Debug\netcoreapp3.1\matematik.deps.json
+C:\Users\Monster\Desktop\C# kampı\KampIntro\matematik\bin\Debug\netcoreapp3.1\matematik.runtimeconfig.json
+C:\Users\Monster\Desktop\C# kampı\KampIntro\matematik\bin\Debug\netcoreapp3.1\matematik.runtimeconfig.dev.json
+C:\Users\Monster\Desktop\C# kampı\KampIntro\matematik\bin\Debug\netcoreapp3.1\matematik.dll
+C:\Users\Monster\Desktop\C# kampı\KampIntro\matematik\bin\Debug\netcoreapp3.1\matematik.pdb
+C:\Users\Monster\Desktop\C# kampı\KampIntro\matematik\obj\Debug\netcoreapp3.1\matematik.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\C# kampı\KampIntro\matematik\obj\Debug\netcoreapp3.1\matematik.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\C# kampı\KampIntro\matematik\obj\Debug\netcoreapp3.1\matematik.AssemblyInfo.cs
+C:\Users\Monster\Desktop\C# kampı\KampIntro\matematik\obj\Debug\netcoreapp3.1\matematik.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# kampı\KampIntro\matematik\obj\Debug\netcoreapp3.1\matematik.dll
+C:\Users\Monster\Desktop\C# kampı\KampIntro\matematik\obj\Debug\netcoreapp3.1\matematik.pdb
+C:\Users\Monster\Desktop\C# kampı\KampIntro\matematik\obj\Debug\netcoreapp3.1\matematik.genruntimeconfig.cache

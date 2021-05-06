@@ -1,0 +1,13 @@
+C:\Users\Monster\Desktop\C# kampı\KampIntro\classIntro\obj\Debug\netcoreapp3.1\classIntro.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\C# kampı\KampIntro\classIntro\obj\Debug\netcoreapp3.1\classIntro.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\C# kampı\KampIntro\classIntro\obj\Debug\netcoreapp3.1\classIntro.AssemblyInfo.cs
+C:\Users\Monster\Desktop\C# kampı\KampIntro\classIntro\obj\Debug\netcoreapp3.1\classIntro.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# kampı\KampIntro\classIntro\bin\Debug\netcoreapp3.1\classIntro.exe
+C:\Users\Monster\Desktop\C# kampı\KampIntro\classIntro\bin\Debug\netcoreapp3.1\classIntro.deps.json
+C:\Users\Monster\Desktop\C# kampı\KampIntro\classIntro\bin\Debug\netcoreapp3.1\classIntro.runtimeconfig.json
+C:\Users\Monster\Desktop\C# kampı\KampIntro\classIntro\bin\Debug\netcoreapp3.1\classIntro.runtimeconfig.dev.json
+C:\Users\Monster\Desktop\C# kampı\KampIntro\classIntro\bin\Debug\netcoreapp3.1\classIntro.dll
+C:\Users\Monster\Desktop\C# kampı\KampIntro\classIntro\bin\Debug\netcoreapp3.1\classIntro.pdb
+C:\Users\Monster\Desktop\C# kampı\KampIntro\classIntro\obj\Debug\netcoreapp3.1\classIntro.dll
+C:\Users\Monster\Desktop\C# kampı\KampIntro\classIntro\obj\Debug\netcoreapp3.1\classIntro.pdb
+C:\Users\Monster\Desktop\C# kampı\KampIntro\classIntro\obj\Debug\netcoreapp3.1\classIntro.genruntimeconfig.cache
